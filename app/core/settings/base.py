@@ -219,8 +219,8 @@ SPECTACULAR_SETTINGS = {
         "displayRequestDuration": True
     },
     'UPLOADED_FILES_USE_URL': True,
-    'TITLE': 'Product Service',
-    'DESCRIPTION': 'Product Service',
+    'TITLE': 'Template Service',
+    'DESCRIPTION': 'Tenplate Service',
     'VERSION': '0.2.0',
     'LICENCE': {'name': 'BSD License'},
     'CONTACT': {'name': 'Ridwanray', 'email': 'alabarise@gmail.com'},
