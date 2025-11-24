@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'core.celery.CeleryConfig',
 
     #Local Apps
-    'product',
+    # 'product',
 ]
 
 
