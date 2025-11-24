@@ -223,7 +223,7 @@ SPECTACULAR_SETTINGS = {
     'DESCRIPTION': 'Tenplate Service',
     'VERSION': '0.2.0',
     'LICENCE': {'name': 'BSD License'},
-    'CONTACT': {'name': 'Ridwanray', 'email': 'alabarise@gmail.com'},
+    'CONTACT': {'name': 'Kelvin Nketia-Achiampong', 'email': 'kelvinnketiaachiampong@gmail.com'},
     #OAUTH2 SPEC
     'OAUTH2_FLOWS': [],
     'OAUTH2_AUTHORIZATION_URL': None,
